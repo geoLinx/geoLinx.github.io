@@ -4,7 +4,9 @@
 Commemorative (re)naming in East Germany and Poland 1916-2018
 <a href="http://mill.wa.amu.edu.pl">http://mill.wa.amu.edu.pl</a>
 <ul>
-  <li> Leipzig map </li>
+  <li><a href="Leipzig_Leaflet">https://geolinx.github.io/Leipzig_Leaflet</a></li>
+  <li><a href="Leipzig_Mapbox">https://geolinx.github.io/Leipzig_Mapbox</a></li>
+  <li><a href="Leipzig_OpenLayers">https://geolinx.github.io/Leipzig_OpenLayers</a></li>
   <li> Poznań map </li>
   <li> MILL map </li>
 </ul>

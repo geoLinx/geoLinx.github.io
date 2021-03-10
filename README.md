@@ -8,7 +8,5 @@ The project aims to put an entirely undescribed variety of World English on the 
 Commemorative (re)naming in East Germany and Poland 1916-2018
 <a href="http://mill.wa.amu.edu.pl">http://mill.wa.amu.edu.pl</a>
 
-<LI>
-Leipzig
-Poznan
-</LI>
+<H3> Leipzig map </H3>
+<H3> Poznań map </H3>

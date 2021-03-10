@@ -7,7 +7,8 @@ The project aims to put an entirely undescribed variety of World English on the 
 <H2> Memory and Ideology in the Linguistic Landscape </H2>
 Commemorative (re)naming in East Germany and Poland 1916-2018
 <a href="http://mill.wa.amu.edu.pl">http://mill.wa.amu.edu.pl</a>
-
-  <li>Leipzig map</li>
-  <li>Poznań map</li>
-  <li>MILL map</li>
+<p>
+  <li> Leipzig map </li>
+  <li> Poznań map </li>
+  <li> MILL map </li>
+</p>

@@ -5,7 +5,7 @@ Commemorative (re)naming in East Germany and Poland 1916-2018
 Whereas memory studies and research in linguistic landscape (LL) have documented street (re)naming in Eastern Europe as a result of multiple waves of ideological reorientations, most of this research rarely transgresses disciplinary and geopolitical boundaries. To date, systematic comparative research is scarce and cross-fertilisation between Western and Eastern European countries is almost non-existent. 
 The MILL project aims to remedy this situation by investigating ideologically-driven changes in the urban landscape of two countries throughout the past century. 
 <br><a href="https://mill-maps.github.io" target="_blank">MILL interactive maps</a>
-<br><a href="http://mill.wa.amu.edu.pl" target="_blank">Official website hosted at UAM</a>
+<br><a href="http://mill.wa.amu.edu.pl" target="_blank">Official website at UAM</a>
 <br><a href="https://www.uni-due.de/anglistik/sociolinguistics_lab/mill_project.php" target="_blank">Wesbite hosted at UDE</a>
 
 <h3>English in the Marshall Islands </h3>

@@ -8,9 +8,15 @@ var MajuroPhotoURL = 'https://dl.dropboxusercontent.com/u/2149416/';
 var MajuroPhotoURL = ''; //Use this when accessing dropbox/USB offline
 /* ...so that it picks them up from
  * \Dropbox\__Seraph_Isa\_LinguisticLandscape\2016_Majuro_Linguistic_Landscape_all */
-var MajuroPhotoPop= 'https://www.uni-due.de/anglistik/sociolinguistics_lab/rmi_project/2016_Majuro_LL/10pc/';
-var MajuroPhotoOpen= 'https://www.uni-due.de/anglistik/sociolinguistics_lab/rmi_project/2016_Majuro_LL/20pc/';
 
+/* 12.02.2024: The below DUE links are broken
+* var MajuroPhotoPop= 'https://www.uni-due.de/anglistik/sociolinguistics_lab/rmi_project/2016_Majuro_LL/10pc/';
+* var MajuroPhotoOpen= 'https://www.uni-due.de/anglistik/sociolinguistics_lab/rmi_project/2016_Majuro_LL/20pc/';
+*/
+
+var MajuroPhotoPop= 'https://raw.githubusercontent.com/geoLinx/geoLinx.github.io/master/RMI_project/2016_Majuro_LL/10pc/';
+var MajuroPhotoOpen= 'https://raw.githubusercontent.com/geoLinx/geoLinx.github.io/master/RMI_project/2016_Majuro_LL/10pc/';
+	
 // Load baseMap layers from http://wiki.openstreetmap.org/wiki/Featured_tile_layers
 //OpenStreetMap.Mapnik:L.tileLayer.grayscale('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 //OpenStreetMap.DE: L.tileLayer.grayscale('http://{s}.tile.openstreetmap.de/tiles/osmde/{z}/{x}/{y}.png', {

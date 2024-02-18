@@ -9,13 +9,14 @@ var MajuroPhotoURL = ''; //Use this when accessing dropbox/USB offline
 /* ...so that it picks them up from
  * \Dropbox\__Seraph_Isa\_LinguisticLandscape\2016_Majuro_Linguistic_Landscape_all */
 
-/* 12.02.2024: The below DUE links are broken
+/* 12.02.2024: The below DUE links are broken so cannot be used as repository
 * var MajuroPhotoPop= 'https://www.uni-due.de/anglistik/sociolinguistics_lab/rmi_project/2016_Majuro_LL/10pc/';
 * var MajuroPhotoOpen= 'https://www.uni-due.de/anglistik/sociolinguistics_lab/rmi_project/2016_Majuro_LL/20pc/';
 */
 
+/* Temp solution to use github, but there is a limit of 1000 files in folder 10pc, so not all images are there */
 var MajuroPhotoPop= 'https://raw.githubusercontent.com/geoLinx/geoLinx.github.io/master/RMI_project/2016_Majuro_LL/10pc/';
-var MajuroPhotoOpen= 'https://www.dropbox.com/scl/fo/b9vwme1evueaukflasa4w/h?rlkey=5kneed6eel4qsc2wxqivsa0mo&dl=0/';
+var MajuroPhotoOpen= 'https://raw.githubusercontent.com/geoLinx/geoLinx.github.io/master/RMI_project/2016_Majuro_LL/10pc/';
 	
 // Load baseMap layers from http://wiki.openstreetmap.org/wiki/Featured_tile_layers
 //OpenStreetMap.Mapnik:L.tileLayer.grayscale('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {

@@ -15,7 +15,7 @@ var MajuroPhotoURL = ''; //Use this when accessing dropbox/USB offline
 */
 
 var MajuroPhotoPop= 'https://raw.githubusercontent.com/geoLinx/geoLinx.github.io/master/RMI_project/2016_Majuro_LL/10pc/';
-var MajuroPhotoOpen= 'https://raw.githubusercontent.com/geoLinx/geoLinx.github.io/master/RMI_project/2016_Majuro_LL/10pc/';
+var MajuroPhotoOpen= 'https://www.dropbox.com/scl/fo/b9vwme1evueaukflasa4w/h?rlkey=5kneed6eel4qsc2wxqivsa0mo&dl=0/';
 	
 // Load baseMap layers from http://wiki.openstreetmap.org/wiki/Featured_tile_layers
 //OpenStreetMap.Mapnik:L.tileLayer.grayscale('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
